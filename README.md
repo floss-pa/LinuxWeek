@@ -1,4 +1,4 @@
-# Linux.Day.2016
+# Linux.Week.2018
 
 #### Descripción del Evento.
 **Linux®** es un sistema operativo libre y de código abierto
