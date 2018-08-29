@@ -25,6 +25,7 @@ junto a  miembros de Floss-Pa estaran coordinando la realización del evento:
 - José Reyes.
 - Shelsy Chanis.
 - David López.
+- Davis Álvarez.
 
 
 Talleres y eventos organizado por el Grupo Universitario de Floss-Pa UIP. Mantente informado de más talleres y eventos en nuestra página web <https://floss-pa.net> o Twitter(@flosspa) y Facebook <https://fb.com/flosspa>
