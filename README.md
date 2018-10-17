@@ -27,5 +27,19 @@ junto a  miembros de Floss-Pa estaran coordinando la realización del evento:
 - David López.
 - Davis Álvarez.
 
+### **TEMAS:** ###
+
+#### **UIP:** ####
+
+| Fecha y Hora | Tema | Expositor |
+| ---- | ---- | --------- |
+|**25 de Octubre / 06:00 pm** | . |**Petro Pilides**|
+|**25 de Octubre / 07:00 pm** | Zimbra. |  **Ivan Idalgo** |
+|**25 de Octubre / 08:00 pm** | . |  **** |
+|**26 de Octubre / 06:00 pm** | . |**** |
+|**26 de Octubre / 07:00 pm** | . |**Maryon Torres** |
+|**26 de Octubre / 08:00 pm** | . |**Roberto Rubio** |
+
+
 
 Talleres y eventos organizado por el Grupo Universitario de Floss-Pa UIP. Mantente informado de más talleres y eventos en nuestra página web <https://floss-pa.net> o Twitter(@flosspa) y Facebook <https://fb.com/flosspa>
