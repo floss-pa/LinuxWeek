@@ -29,6 +29,18 @@ junto a  miembros de Floss-Pa estaran coordinando la realización del evento:
 
 ### **TEMAS:** ###
 
+#### **UP:** ####
+
+| Fecha y Hora | Tema | Expositor |
+| ---- | ---- | --------- |
+|**23 de Octubre / 06:15 pm** | Bienvenidos a Fedora. |**Luis Bazán**|
+|**23 de Octubre / 07:00 pm** | Desarrollando un Framework con personas del mundo. |  **Faustino Aguilar** |
+|**23 de Octubre / 07:30 pm** | GNU/Linux Tools For Pentesters. |  **Gonzalo Nina** |
+|**23 de Octubre / 08:15 pm** | Reversing  Android Apps. |**Cristhian Lima** |
+
+
+### **TEMAS:** ###
+
 #### **UIP:** ####
 
 | Fecha y Hora | Tema | Expositor |
