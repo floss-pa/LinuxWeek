@@ -46,7 +46,7 @@ junto a  miembros de Floss-Pa estaran coordinando la realización del evento:
 | Fecha y Hora | Tema | Expositor |
 | ---- | ---- | --------- |
 |**25 de Octubre / 06:00 pm** | Implementando un sistema de detección de intrusos en Linux. |**Sheyla Leacock**|
-|**25 de Octubre / 07:00 pm** | Zimbra Collaboration Open Source. |  **Ivan Idalgo** |
+|**25 de Octubre / 07:00 pm** | Zimbra Collaboration Open Source. |  **Ivan Hidalgo** |
 |**25 de Octubre / 08:00 pm** | Deja de ver al mundo desde la ¨ventana¨sal e inicia una libre aventura. LINUX para el dia a dia basta y sobra. |  **Ismael Valderrama** |
 |**26 de Octubre / 06:00 pm** | Robotic Process Automation. |**Petro Pilides** |
 |**26 de Octubre / 07:00 pm** | Emprendiendo con Tecnologia Open Source. |**Maryon Torres** |
